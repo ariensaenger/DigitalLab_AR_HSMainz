@@ -4,7 +4,8 @@
 ## Clickprototype ARDB -Notion
 
 
-- Notionmodell: https://witty-partridge-18d.notion.site/ARDB_Klickprototype_Notion-023c0f85a825441ba7856828a42ad8d7
+- Notionmodell: 
+- https://witty-partridge-18d.notion.site/ARDB_Klickprototype_Notion-023c0f85a825441ba7856828a42ad8d7
 
 
 ## Weiterentwicklung ARDB
